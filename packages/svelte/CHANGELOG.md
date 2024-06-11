@@ -1,5 +1,11 @@
 # svelte
 
+## 5.0.0-next.154
+
+### Patch Changes
+
+- fix: ensure bound input content is resumed on hydration ([#11986](https://github.com/sveltejs/svelte/pull/11986))
+
 ## 5.0.0-next.153
 
 ### Patch Changes
