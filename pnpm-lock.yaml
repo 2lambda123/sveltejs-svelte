@@ -317,8 +317,8 @@ importers:
         specifier: 0.6.0
         version: 0.6.0(@codemirror/lang-html@6.4.9)(@codemirror/search@6.5.6)(@lezer/common@1.2.1)(@lezer/javascript@1.4.15)(@lezer/lr@1.4.0)(@sveltejs/kit@2.4.3(@sveltejs/vite-plugin-svelte@3.1.0(svelte@4.2.9)(vite@5.1.8(@types/node@20.11.5)(lightningcss@1.23.0)(sass@1.70.0)(terser@5.27.0)))(svelte@4.2.9)(vite@5.1.8(@types/node@20.11.5)(lightningcss@1.23.0)(sass@1.70.0)(terser@5.27.0)))(svelte@4.2.9)
       cookie:
-        specifier: ^1.0.1
-        version: 1.0.1
+        specifier: ^1.0.2
+        version: 1.0.2
       devalue:
         specifier: ^4.3.2
         version: 4.3.2
@@ -2193,8 +2193,8 @@ packages:
     resolution: {integrity: sha512-U71cyTamuh1CRNCfpGY6to28lxvNwPG4Guz/EVjgf3Jmzv0vlDp1atT9eS5dDjMYHucpHbWns6Lwf3BKz6svdw==}
     engines: {node: '>= 0.6'}
 
-  cookie@1.0.1:
-    resolution: {integrity: sha512-Xd8lFX4LM9QEEwxQpF9J9NTUh8pmdJO0cyRJhFiDoLTk2eH8FXlRv2IFGYVadZpqI3j8fhNrSdKCeYPxiAhLXw==}
+  cookie@1.0.2:
+    resolution: {integrity: sha512-9Kr/j4O16ISv8zBBhJoi4bXOYNTkFLOqSL3UDB0njXxCXNezjeyVrJyGOWtgfs/q2km1gwBcfH8q1yEGoMYunA==}
     engines: {node: '>=18'}
 
   core-js-compat@3.37.0:
@@ -7312,7 +7312,7 @@ snapshots:
 
   cookie@0.6.0: {}
 
-  cookie@1.0.1: {}
+  cookie@1.0.2: {}
 
   core-js-compat@3.37.0:
     dependencies:
